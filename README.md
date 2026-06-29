@@ -98,5 +98,5 @@ Tarea 1a/
 ## Autor
 
 **Carlos Ojeda**
-Magíster en Informática - Universidad Técnica Federico Santa María
+Magíster en Informática - Universidad Austral de Chile
 Curso: Minería y Aprendizaje de Datos (MAD)
